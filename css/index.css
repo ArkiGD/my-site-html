@@ -1,0 +1,30 @@
+.top-menu {
+    background-color: black;
+}
+
+#get-more-info {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    padding: 10px;
+}
+
+.contact-us {
+    text-align: center; 
+    font-family: moonspace;
+}
+
+#instagram {
+    width: 150px;
+    height: 150px;
+}
+
+#facebook {
+    width: 150px;
+    height: 150px;
+}
+
+ul {
+    top
+}
